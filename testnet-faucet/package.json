@@ -10,7 +10,7 @@
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
-    "@hookform/resolvers": "^2.8.3",
+    "@hookform/resolvers": "^2.8.5",
     "@mui/icons-material": "^5.1.1",
     "@mui/material": "^5.1.1",
     "@nymproject/nym-validator-client": "^0.18.0",
