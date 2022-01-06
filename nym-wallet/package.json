@@ -12,7 +12,7 @@
     "build": "run-s webpack:prod tauri:build"
   },
   "dependencies": {
-    "@babel/preset-typescript": "^7.15.0",
+    "@babel/preset-typescript": "^7.16.5",
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",
     "@hookform/resolvers": "^2.8.0",
